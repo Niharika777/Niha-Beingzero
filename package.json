@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Niharika777/Niha-Beingzero/issues"
   },
-  "homepage": "https://github.com/Niharika777/Niha-Beingzero#readme"
+  "homepage": "https://github.com/Niharika777/Niha-Beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
